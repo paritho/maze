@@ -1,8 +1,7 @@
 /********************************************************************
-* HW6 -- Maze solver
+* Breadth-first search
 *
 * Author: Paul Thompson
-*         prt@uakron.edu
 *
 * Purpose: Creates a breadth-first search method in the BFS class.
 * The open_door() function begins the search. BFS uses a queue to
