@@ -1,8 +1,7 @@
 /********************************************************************
-* HW6 -- Maze solver
+* Depth-first search
 *
 * Author: Paul Thompson
-*         prt@uakron.edu
 *
 * Purpose: Creates a depth-first search method in the class DFS. The
 * function open_door() starts the search and returns true if a
